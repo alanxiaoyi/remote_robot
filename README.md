@@ -8,9 +8,9 @@ The code should be pretty straight forward. You need sleekXMPP library setup fir
 
 If you havn't built a robot car, you still can use it as a google talk client.
 
-$: How to start?
+How to start?
 
-sudo python xmpp_client.py  -j xxx@gmail.com  -p  password
+> sudo python xmpp_client.py  -j xxx@gmail.com  -p  password
 
 How to use?
 
